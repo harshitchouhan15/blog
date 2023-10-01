@@ -1,0 +1,15 @@
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore build output
+build/
+
+# Ignore development server log files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Ignore IDE-specific files
+.idea/
+.vscode/
